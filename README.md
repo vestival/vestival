@@ -2,6 +2,10 @@
 
 My name is Victor Estival and I am really passionate about technology!
 
+- 🔭 I’m currently working on SUSE as a Technical Marketer, if you want to know that that is, feel free to ping me
+- 🌱 I’m currently learning about everything! You never get enough knowledge!
+
+
 <!--
 **vestival/vestival** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
