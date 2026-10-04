@@ -1,21 +1,21 @@
-### Hi there 👋
+### Hi, I'm Victor 👋
 
-My name is Victor Estival and I am really passionate about technology!
+I explain infrastructure and AI to the people who run it. Technical product marketing, based in Madrid.
 
-- 🌱 I’m currently learning about everything! You never get enough knowledge!
+Over twenty years in enterprise infrastructure, eleven of them in technical marketing. I started out teaching AIX and WebSphere, then worked as a solution architect and an OpenStack cloud architect at Canonical. From there I moved into technical marketing at Red Hat (Ansible, Satellite, CloudForms), Microsoft and SUSE (Rancher, NeuVector).
 
+Then came Web3: Chainlink, Parity (Polkadot), Polygon (zkEVM and CDK) and Algorand, where I was Head of Product Marketing. At Algorand we took monthly active developers from 186 to 440 in under a year.
 
-<!--
-**vestival/vestival** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Today I work independently on Kubernetes, cloud and AI agents.
 
-Here are some ideas to get you started:
+**What I tinker with**
+- Kubernetes on AWS, mostly EKS
+- Self-hosted AI: Ollama, OpenClaw, Hermes Agent
+- Agentic workflows built on Claude Code
+- Small scripts that fix my own annoyances (yes, including calendar sync)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I believe**
+Positioning is the product strategy, not a messaging exercise you do after launch. Developer communities beat any campaign. And technical content should survive an engineer reading it.
+
+**Find me**
+- X: [@victorestival](https://x.com/victorestival)
